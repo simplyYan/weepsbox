@@ -1,3 +1,12 @@
+pip install numba
+pip install py_mini_racer
+pip install requests
+pip install scrapy
+pip install sqlalchemy
+pip install beautifulsoup4
+pip install scipy
+pip install scikit-learn
+
 @echo off
 
 if "%~1" == "" (
